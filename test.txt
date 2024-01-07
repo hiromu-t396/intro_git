@@ -6,3 +6,4 @@
 git rm
 git status
 git diffの変更部分の確認
+gitの確認
