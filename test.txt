@@ -5,3 +5,4 @@
 変更の記録
 git rm
 git status
+git diffの変更部分の確認
